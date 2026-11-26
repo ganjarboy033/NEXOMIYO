@@ -1,0 +1,22 @@
+{
+  "scraperVersion": 2,
+  "minAppVersion": "1.0.0",
+  "changelog": "Rilis awal v2",
+  "history": [
+    {
+      "v": 2,
+      "changelog": "Rilis awal v2",
+      "ts": "2026-11-26T15:52:51.830Z"
+    },
+    {
+      "v": 3,
+      "changelog": "uji v3",
+      "ts": "2026-11-26T15:52:36.954Z"
+    },
+    {
+      "v": 2,
+      "changelog": "Rilis awal v2",
+      "ts": "2026-11-26T15:52:35.809Z"
+    }
+  ]
+}

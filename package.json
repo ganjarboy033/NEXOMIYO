@@ -1,0 +1,3 @@
+{ "name": "nimiyo-nexora", "version": "2.0.0", "private": true, "description": "Nimiyo × Nexora — frontend WebView ringan + backend OTA tanpa dependensi",
+  "engines": { "node": ">=18" },
+  "scripts": { "start": "node server/server.js", "bundle": "node scripts/build-bundle.js" } }
